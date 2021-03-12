@@ -1,0 +1,72 @@
+
+
+/* Code for Homepage */
+/* Set height of body and the document to 100% to enable "full page tabs" */
+ body {
+    background-image: url(https://imageproxy.themaven.net//https%3A%2F%2Fimages.saymedia-content.com%2F.image%2FMTc0MzAxMzU2NjY3MTg1MDIw%2Ftop-10-movie-production-companies.jpg);    
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin: 0;
+    font-family: Arial;
+  } 
+  
+  /* Style tab links */
+  .tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 16px 18px;
+    font-size: 17px;
+    width: 16%;
+  }
+  
+  .tablink:hover {
+    background-color: #777;
+  }
+  
+  /* Style the tab content (and add height:100% for full page content) */
+  .tabcontent {
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+  }
+  
+  #Home {background-image: url(https://i.pinimg.com/originals/f5/f7/3b/f5f73baa2477c885f57fa8f61506a2bb.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  #About {background-color: grey;}
+  #Actors {background-image: url(https://www.gannett-cdn.com/-mm-/cf5879c3f3de00356355324f0d84bfae5009c56a/c=0-0-1918-1084/local/-/media/2018/07/16/USATODAY/USATODAY/636673549675758947-prolific-actors.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  #Writers {background-image: url(https://cc-west-blog-assets.s3.amazonaws.com/uploads/2017/05/best-writers-write-everyday.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  #Directors {background-image: url(https://previews.123rf.com/images/jgroup/jgroup1005/jgroup100500716/7049618-director-s-chair-and-megaphone-on-white-background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  #Production {background-image: url(https://www.packair.com/wp-content/uploads/bfi_thumb/film-production-nq8ava37c7ltsl06wh05gvwkumt0r1qqf1kguga650.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  
+    
+  
+
+  /* Carousel and Images */
+  
+ 
